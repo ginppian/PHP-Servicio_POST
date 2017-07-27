@@ -15,7 +15,7 @@ PHP Servicio POST
 
 if($_POST){
 
-        $nombre = $_POST['nombre'];
+        $nombre = htmlspecialchars($_POST['nombre']);
         echo "Hola $nombre";
 
 }
