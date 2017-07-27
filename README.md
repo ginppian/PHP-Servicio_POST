@@ -24,7 +24,7 @@ if($_POST){
 * Probamos con POSTMAN
 
 <p align="center">
-	<img src="" width="884" height="575">
+	<img src="https://github.com/ginppian/PHP-Servicio_POST/blob/master/imgs/img1.png" width="884" height="575">
 </p>
 
 
